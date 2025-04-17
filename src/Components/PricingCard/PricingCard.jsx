@@ -10,13 +10,14 @@ const PricingCard = ({ pricing }) => {
                 <h3 className='text-3xl'>{price}</h3>
             </div>
             {/* card body */}
-            <div className='bg-amber-400 p-2 rounded-2xl mt-6'>
+            <div className='bg-amber-400 p-2 rounded-2xl mt-6 flex-1'>
                 <p>{description}</p>
                 {
                     features.map((feature,index) => <PricingFeature key={index} feature={feature}></PricingFeature>)
                 }
 
             </div>
+            <button className='btn w-full mt-4 bg-black text-white'>Subscribe</button>
         </div>
     );
 };

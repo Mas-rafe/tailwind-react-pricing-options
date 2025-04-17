@@ -9,9 +9,9 @@
         "Locker room access",
         "Free Wi-Fi",
         "1 personal training session/month",
-        "Access during staffed hours only",
-        "Fitness tracking app integration",
-        "Access to vending and hydration stations"
+        "Access during staffed hours only"
+       
+     
       ]
     },
     {
@@ -26,8 +26,8 @@
         "2 personal training sessions/month",
         "Locker & shower facilities",
         "Access to exclusive member workshops",
-        "Monthly progress tracking reports",
-        "Guest pass (1 per month)"
+        "Monthly progress tracking reports"
+        
       ]
     },
     {
@@ -43,8 +43,8 @@
         "Monthly fitness assessments",
         "Private locker with key access",
         "Access to recovery lounge & massage chairs",
-        "Discounts on supplements and merchandise",
-        "Dedicated fitness coach"
+        "Discounts on supplements and merchandise"
+       
       ]
     }
   ]
